@@ -1,3 +1,4 @@
+# Um professor quer sortear um dos seus quatros alunos para apagar o quadro. Faça um programa que ajude ele, lendo o nomes deles e escrevendo o nome escolhidos.
 import math
 an = float(input('digite o angulo q deseja?'))
 r = math.radians(an)

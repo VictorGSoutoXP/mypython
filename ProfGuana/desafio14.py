@@ -1,3 +1,5 @@
+# Escreva um programa que converta uma temperatura digitada em °C e converta em °F.
+
 dados = float(input('informe a temperatura em ºc: '))
 F = (1.8 * dados) + 32
 K = dados + 273
