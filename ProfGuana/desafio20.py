@@ -1,4 +1,4 @@
-# O mesmo professor do desafio anterior quer sortear a ordem de apresentação de trabalhos dos alunos. Faça um programa que leia o nome dos quatros alunos e mostre a ordem sorteada.
+# A professora quer sortear um dos seus quatros alunos para apagar o quadro. Faça um programa que ajude ela, lendo o nome deles e escrevendo o nome escolhido.
 import random
 a1 = input('Primeiro aluno: ')
 a2 = input('Segundo aluno: ')
